@@ -29,5 +29,3 @@ I have observed it in my house and neighbour.
 ## My Solution
 Using Technology and making it handy for each family,I want to make water-leakage-detector.
 Using Arduino Nano BLE 33,Edge Impulse and Arduino Software.
-<img src="">
-
